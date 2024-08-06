@@ -1,0 +1,13 @@
+name: GFS-Playground
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - matplotlib
+  - cartopy
+  - xarray
+  - cfgrib
+  - pip
+  - pip:
+      - boto3

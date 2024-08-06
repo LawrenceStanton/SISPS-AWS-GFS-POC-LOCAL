@@ -1,0 +1,31 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "boto",
+    "botocore",
+    "Carree",
+    "cartopy",
+    "cbar",
+    "ccrs",
+    "cfgrib",
+    "cmap",
+    "figsize",
+    "gmtime",
+    "GRIB",
+    "gridlines",
+    "linestyle",
+    "linewidth",
+    "NCEP",
+    "pgrb",
+    "SANAE",
+    "xarray",
+    "xlim",
+    "ylabel",
+    "yyymmdd"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
