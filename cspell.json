@@ -21,6 +21,7 @@
     "NCEP",
     "pgrb",
     "SANAE",
+    "timeseries",
     "xarray",
     "xlim",
     "ylabel",

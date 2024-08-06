@@ -9,5 +9,6 @@ dependencies:
   - xarray
   - cfgrib
   - pip
+  - nbstripout
   - pip:
       - boto3
